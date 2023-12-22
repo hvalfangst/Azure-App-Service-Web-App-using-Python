@@ -52,7 +52,7 @@ terrraform destroy
 ```
 
 
-### 'sh down.sh bicep'
+### 'sh down.sh az'
 ```
  az group delete --name hvalfangstresourcegroup --yes --no-wait
 ```
